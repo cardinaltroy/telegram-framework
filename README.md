@@ -38,7 +38,7 @@ module.exports = (props) => {
     const message = props.msg.text;
     const next = props.next;
 
-    const msgFirst = async() =>{
+    const msgFirst = () =>{
 
         
         /* Any code here */
