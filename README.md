@@ -79,4 +79,4 @@ delWait - function( {userId} ) - remove pending
 
 sendMsg - function( {userId, msg} ) - send message to user
 
-setPanel - function ( {userId, panel} ) - set menu panel for user
+setPanel - async function ( {userId, panel} ) - set menu panel for user
