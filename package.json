@@ -1,0 +1,20 @@
+{
+  "name": "nodetelegram2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "db_create": "node bot_modules/db_create.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "node-telegram-bot-api": "^0.61.0",
+    "sequelize": "^6.28.0",
+    "sqlite3": "^5.1.4"
+  }
+}
