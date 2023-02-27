@@ -4,7 +4,7 @@
 - [Props](#props)
 
 # <a name="framework">About</a> 
-Just NodeJS framework for creating telegram bot with SQLite. What he can?
+Just NodeJS framework for creating telegram bot with SQLite (or u can change dialect in sequelize). What he can?
 
 
 
